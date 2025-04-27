@@ -8,18 +8,33 @@
   Professor Universitário | Doutor em Engenharia da Computação | Pesquisador Científico
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Programando"/>
-</p>
+---
+
+## 🧠 Sobre Mim
+
+Doutor e Mestre em Engenharia Elétrica e Engenharia da Computação pela Universidade Presbiteriana Mackenzie, possuo MBA em Data Center e Computação em Nuvem - Infraestrutura, Arquitetura e Armazenamento de Informações pela UNIP.  
+Formado em Ciência da Computação e Tecnólogo em Redes de Computadores pelo UNASP.  
+Orientei mais de 170 trabalhos/projetos de conclusão de curso na área de Ciência e Engenharia da Computação.
+
+Recebi diversos prêmios e títulos, tanto nacionais quanto internacionais, em reconhecimento ao meu compromisso com a inclusão de pessoas com deficiência.  
+Desenvolvi uma solução de Inteligência Artificial voltada para a inclusão social de crianças surdas por meio da música, trabalho pelo qual fui laureado com o prêmio de Melhores Projetos de Doutorado em Engenharia Elétrica e Computação pela Universidade Presbiteriana Mackenzie, em 2024, concedido pela APG Mackenzie.  
+Fui também agraciado com o prêmio de Melhor Artigo no Congresso Brasileiro de Informática na Educação (CBIE), promovido pela Sociedade Brasileira de Computação (SBC), na linha WIE Trilha 1, em 2024.  
+Além disso, recebi prêmios em conferências internacionais na área de educação e inclusão social, incluindo a nomeação como finalista do Prêmio Brazil Conference de Harvard e MIT na categoria Impacto Social, bem como reconhecimentos em congressos europeus, onde apresentei o melhor projeto de pesquisa.
+
+Possuo vasta experiência como Professor Especialista na área de Ciência da Computação, atuando no ensino de programação Python, Infraestrutura, Inteligência Artificial e Lógica de Programação em cursos de Graduação e Pós-Graduação.  
+Experiência em coordenação de Ensino Médio Técnico, professor convidado e pesquisador Sênior na Universidade Estiam de Paris, na França.  
+Tenho artigos científicos publicados em revistas nacionais e internacionais, e sou autor de livros que abordam técnicas para ensinar música a crianças surdas utilizando robótica e IA, além de técnicas para apoio educacional a surdos com jogos digitais e métodos para aulas remotas.  
+Também escrevi capítulos em diversos livros e atuo com Metodologia PBL e Ágil.
+
+Possuo certificações técnicas em Windows Server, MTA de Redes, DELL EMC Infraestrutura Cloud, DELL EMC Armazenamento de Informações, ITIL, COBIT e Symantec.
+
+Atuei tecnicamente em grandes projetos de instalação de IoT hospitalar e industrial, participando de iniciativas nos maiores hospitais e empresas do Brasil.
 
 ---
 
-## 🎯 Sobre Mim
-
-- 🧠 Doutor em Engenharia da Computação
-- 👨‍🏫 Professor universitário e orientador acadêmico em universidades da Europa
-- 📚 Escritor de projetos científicos, livros e artigos técnicos
-- 🎯 Foco em Educação Inclusiva, Inteligência Artificial, Engenharia de Software e Tecnologia Assistiva
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Programando"/>
+</p>
 
 ---
 
@@ -92,4 +107,3 @@
 <p align="center">
   <em>"A educação transforma vidas; a tecnologia torna essa transformação acessível a todos."</em>
 </p>
-
