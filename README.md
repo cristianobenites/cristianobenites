@@ -29,6 +29,7 @@ Doutor e Mestre em Engenharia Elétrica e Engenharia da Computação pela Univer
 Orientei mais de 170 trabalhos/projetos de conclusão de curso.
 
 Recebi prêmios nacionais e internacionais, entre eles:
+- Prêmio Melhores Projetos IA na REX Event (Estiam/Paris - França, 2024)
 - Prêmio Melhores Projetos de Doutorado (Mackenzie/APG, 2024)
 - Melhor Artigo no CBIE/SBC (2024)
 - Finalista da Brazil Conference at Harvard & MIT (Impacto Social)
@@ -45,16 +46,16 @@ Certificações: Windows Server, MTA Redes, DELL EMC Infraestrutura Cloud, ITIL,
 ## 🎓 Formação Complementar
 
 - 2016: MBA em Data Center e Computação em Nuvem - UNIP (360h)
-- 2016-2017: Melhores práticas de TI - COBIT (140h)
-- 2016: Dell EMC Proven Professional – Cloud Infrastructure
-- 2016: Dell EMC Proven Professional – Information Storage
-- 2016: Prova 412 Windows Server 2012 – Microsoft
-- 2015-2016: Melhores práticas de Infraestrutura - ITIL (140h)
-- 2015-2016: MCSA Windows Server 2012 – Microsoft
-- 2015: Prova 410 Windows Server 2012 – Microsoft
-- 2015: Prova 411 Windows Server 2012 – Microsoft
-- 2015: Microsoft Technology Associate – Patente F364-3421
-- 2014-2015: Microsoft Certified Professional
+- 2016: Melhores práticas de TI - COBIT (140h)
+- 2016: Certificação Dell EMC Proven Professional – Cloud Infrastructure
+- 2016: Certificação Dell EMC Proven Professional – Information Storage
+- 2016: Certificação Prova 412 Windows Server 2012 – Microsoft
+- 2015: Certificação Melhores práticas de Infraestrutura - ITIL (140h)
+- 2015: Certificação MCSA Windows Server 2012 – Microsoft
+- 2015: Certificação Prova 410 Windows Server 2012 – Microsoft
+- 2015: Certificação Prova 411 Windows Server 2012 – Microsoft
+- 2015: Certificação Microsoft Technology Associate – Patente F364-3421
+- 2015: Certificação Microsoft Certified Professional
 
 ---
 
