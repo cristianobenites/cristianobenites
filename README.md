@@ -29,7 +29,7 @@ Doutor e Mestre em Engenharia Elétrica e Engenharia da Computação pela Univer
 Orientei mais de 170 trabalhos/projetos de conclusão de curso.
 
 Recebi prêmios nacionais e internacionais, entre eles:
-- Prêmio Melhores Projetos IA na REX Event (Estiam/Paris - França, 2024)
+- Prêmio VEncedor de Melhor Projeto IA na REX Event (Estiam/Paris - França, 2024)
 - Prêmio Melhores Projetos de Doutorado (Mackenzie/APG, 2024)
 - Melhor Artigo no CBIE/SBC (2024)
 - Finalista da Brazil Conference at Harvard & MIT (Impacto Social)
