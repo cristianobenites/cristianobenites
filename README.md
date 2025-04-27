@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00d4ff&height=200&section=header&text=Cristiano%20Benites&fontSize=40&fontColor=ffffff" alt="Cristiano Benites"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00d4ff&height=200&section=header&text=Cristiano%20Benites&fontSize=40&fontColor=ffffff" alt="Cristiano Benites Banner"/>
 </p>
 
 <h2 align="center">👋 Olá, eu sou o Cristiano Benites!</h2>
 
 <p align="center">
-  Professor Universitário | Doutor em Engenharia Elétrica e da Computação | Pesquisador Científico
+  Professor Universitário | Doutor em Engenharia da Computação | Pesquisador Científico
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Programando"/>
 </p>
 
 ---
@@ -13,9 +17,9 @@
 ## 🎯 Sobre Mim
 
 - 🧠 Doutor em Engenharia da Computação
-- 👨‍🏫 Professor e orientador acadêmico em universidades da Europa
-- 📚 Escritor de projetos científicos e artigos técnicos
-- 🎯 Foco em Educação Inclusiva, Inteligência Artificial e Engenharia de Software
+- 👨‍🏫 Professor universitário e orientador acadêmico em universidades da Europa
+- 📚 Escritor de projetos científicos, livros e artigos técnicos
+- 🎯 Foco em Educação Inclusiva, Inteligência Artificial, Engenharia de Software e Tecnologia Assistiva
 
 ---
 
@@ -32,15 +36,23 @@
 
 ---
 
-## 📚 Projetos Recentes
+## 📚 Meus Livros
 
-- [Laboratório de Desenvolvimento de Software](https://github.com/cristianobenites/meus-projetos-laboratorio)
-- [Framework Multissensorial para Educação Musical de Surdos](#)
-- [Sistema de Integração MVC com Supabase](#)
+- 📘 **[Capacitação dos Docentes na Utilização de Tecnologias Assistivas](https://my.nea-edicoes.com/catalog/details/store/fr/book/978-613-9-78959-7/capacita%C3%A7%C3%A3o-dos-docentes-na-utiliza%C3%A7%C3%A3o-de-tecnologias-assistivas?search=Cristiano%20Benites)**  
+  _Facilitando a inclusão no mundo acadêmico com pensamento computacional e IA._
+
+- 📗 **[A Inclusão da Criança com Deficiência Auditiva Utilizando Jogos Digitais](https://my.nea-edicoes.com/catalog/details/store/gb/book/978-613-9-78967-2/a-inclus%C3%A3o-da-crian%C3%A7a-com-defici%C3%AAncia-auditiva?search=Ismar%20Silveira)**  
+  _Jogos digitais como ferramenta de ensino de Libras e Português._
+
+- 📕 **[Ensino de Música para Crianças Surdas Utilizando Tecnologia Assistiva e Robótica](https://my.nea-edicoes.com/catalog/details/store/gb/book/978-620-2-55929-4/ensino-de-m%C3%BAsica-para-crian%C3%A7as-surdas?search=Ismar%20Silveira)**  
+  _Tecnologia e robótica para educação musical inclusiva._
+
+- 📙 **[Ensino de Música para Crianças Surdas Utilizando Inteligência Artificial](https://generis-publishing.com/book.php?title=i-strong-ensino-de-msica-para-crianas-surdas-utilizando-inteligncia-artificial-strong-i-1625)**  
+  _Aplicações de IA no ensino musical para surdos._
 
 ---
 
-## 📈 Estatísticas
+## 📈 Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristianobenites&show_icons=true&theme=tokyonight" alt="Estatísticas de Cristiano Benites"/>
@@ -52,14 +64,26 @@
 
 ---
 
-## 📫 Contato
+## 📫 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristianobenites/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/cristiano-benites-ph-d-687647a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:cristianobenites@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="http://lattes.cnpq.br/7929863405512173" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="Currículo Lattes"/>
+  </a>
+  <a href="https://orcid.org/0000-0002-1300-7944" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="Orcid"/>
+  </a>
+  <a href="https://www.youtube.com/@CristianoBenites" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/cristiano.benites.oficial/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/cristiano.benites.3" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
@@ -68,3 +92,4 @@
 <p align="center">
   <em>"A educação transforma vidas; a tecnologia torna essa transformação acessível a todos."</em>
 </p>
+
