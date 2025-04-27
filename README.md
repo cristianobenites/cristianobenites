@@ -29,7 +29,7 @@ Doutor e Mestre em Engenharia Elétrica e Engenharia da Computação pela Univer
 Recebi diversos prêmios e títulos, tanto nacionais quanto internacionais, em reconhecimento ao meu compromisso com a inclusão de pessoas com deficiência. Desenvolvi uma solução de Inteligência Artificial voltada para a inclusão social de crianças surdas por meio da música.
 
 Recebi prêmios nacionais e internacionais, entre eles:
-- Prêmio VEncedor de Melhor Projeto IA na REX Event (Estiam/Paris - França, 2024)
+- Prêmio Vencedor de Melhor Projeto IA na REX Event (Estiam/Paris - França, 2024)
 - Prêmio Melhores Projetos de Doutorado (Mackenzie/APG, 2024)
 - Melhor Artigo no CBIE/SBC (2024)
 - Finalista da Brazil Conference at Harvard & MIT (Impacto Social)
