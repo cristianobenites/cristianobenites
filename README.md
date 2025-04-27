@@ -24,9 +24,9 @@
 
 ## 🧠 Sobre Mim
 
-Doutor e Mestre em Engenharia Elétrica e Engenharia da Computação pela Universidade Presbiteriana Mackenzie. MBA em Data Center e Computação em Nuvem pela UNIP. Formado em Ciência da Computação e Tecnólogo em Redes de Computadores pelo UNASP.
+Doutor e Mestre em Engenharia Elétrica e Engenharia da Computação pela Universidade Presbiteriana Mackenzie, possuo MBA em Data Center e Computação em Nuvem - Infraestrutura, Arquitetura e Armazenamento de Informações pela UNIP. Formado em Ciência da Computação e Tecnólogo em Redes de Computadores pela UNASP. Orientei mais de 170 trabalhos/projetos de conclusão de curso na área de Ciência e Engenharia da Computação.
 
-Orientei mais de 170 trabalhos/projetos de conclusão de curso.
+Recebi diversos prêmios e títulos, tanto nacionais quanto internacionais, em reconhecimento ao meu compromisso com a inclusão de pessoas com deficiência. Desenvolvi uma solução de Inteligência Artificial voltada para a inclusão social de crianças surdas por meio da música.
 
 Recebi prêmios nacionais e internacionais, entre eles:
 - Prêmio VEncedor de Melhor Projeto IA na REX Event (Estiam/Paris - França, 2024)
@@ -35,11 +35,11 @@ Recebi prêmios nacionais e internacionais, entre eles:
 - Finalista da Brazil Conference at Harvard & MIT (Impacto Social)
 - Premiações em congressos europeus de pesquisa.
 
-Professor universitário, Pesquisador Sênior na Universidade Estiam de Paris, autor de livros e artigos científicos sobre Educação Inclusiva, Inteligência Artificial, Música para Surdos e Robótica Educacional.
+Possuo vasta experiência como Professor Especialista na área de Ciência da Computação, atuando no ensino de programação Python, Infraestrutura, Inteligência Artificial e Lógica de Programação em cursos de Graduação e Pós-Graduação. Coordenação Ensino Médio Técnico. Experiência como professor convidado e pesquisador Sênior na Universidade Estiam de Paris na França. Tenho artigos científicos publicados em revistas nacionais e internacionais, e sou autor de livros que abordam técnicas para ensinar música a crianças surdas utilizando robótica e IA, além de técnicas para apoio educacional a surdos com jogos digitais e métodos para aulas remotas. Também escrevi capítulos em diversos livros. Experiência com Metodologia PBL e Ágil.
 
-Experiência em projetos de IoT hospitalar e industrial.
+Tenho certificações técnicas em Windows Server, MTA de Redes, DELL EMC Infraestrutura Cloud, DELL EMC Armazenamento de Informações, ITIL, COBIT e Symantec.
 
-Certificações: Windows Server, MTA Redes, DELL EMC Infraestrutura Cloud, ITIL, COBIT, entre outras.
+Atuei tecnicamente em grandes projetos de instalação de IoT hospitalar e industrial, participando de iniciativas nos maiores hospitais e empresas do Brasil.
 
 ---
 
