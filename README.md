@@ -2,8 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00d4ff&height=200&section=header&text=Cristiano%20Benites&fontSize=40&fontColor=ffffff" alt="Cristiano Benites Banner"/>
 </p>
 
+<h2 align="center">👋 Olá, eu sou o Cristiano Benites!</h2>
+
 <p align="center">
-  Professor Universitário | Doutor em Engenharia da Computação | Pesquisador Científico
+  Doutor em Engenharia Elétrica e Computação com viés em Inteligência Artificial | Escritor | Saxofonista | Criador conteúdo YouTube | Pesquisador em Inclusão de Pessoas com deficiências
 </p>
 
 ---
@@ -65,6 +67,13 @@ Certificações: Windows Server, MTA Redes, DELL EMC Infraestrutura Cloud, ITIL,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
 </p>
 
 ---
@@ -73,46 +82,43 @@ Certificações: Windows Server, MTA Redes, DELL EMC Infraestrutura Cloud, ITIL,
 
 ### Artigos em Periódicos
 
-1. Ensino de música para surdos: de uma perspectiva histórica até o uso da Inteligência Artificial. **RISTI**, 2024.
-2. Estudo da Inteligência Artificial no escopo do ensino em PBL. **Contemporânea**, 2024.
-3. Harmonias invisíveis: tecnologia no ensino musical para surdos. **Revista Fisio&Terapia**, 2023.
-4. Sons do silêncio: a história dos surdos com a música. **Contemporânea**, 2023.
-5. Songs and silence: the historic journey of the deaf in music. **Concilium**, 2023.
+1. Ensino de música para surdos: de uma perspectiva histórica até o uso da Inteligência Artificial. RISTI, 2024.
+2. Estudo da Inteligência Artificial no escopo do ensino em PBL. Contemporânea, 2024.
+3. Harmonias invisíveis: tecnologia no ensino musical para surdos. Revista Fisio&Terapia, 2023.
+4. Sons do silêncio: a história dos surdos com a música. Contemporânea, 2023.
+5. Songs and silence: the historic journey of the deaf in music. Concilium, 2023.
+6. Domótica como auxílio para pessoas com deficiência e idosos. Núcleo do Conhecimento, 2021.
+7. Stimulating deaf children through vibration and playful activities. CEUR Workshop Proceedings, 2021.
+8. Inclusão de crianças com deficiência auditiva com jogos digitais. Núcleo do Conhecimento, 2020.
+9. Transformada Ripplet para qualificação de lesões da mama. Núcleo do Conhecimento, 2020.
+10. Robótica para experiência musical de surdos: visão prática. RISTI, 2019.
+11. Adaptação tecnológica assistiva no ensino de música para surdos. Revista Brasileira de Informática na Educação, 2019.
+12. Ensino a distância para surdos com chatbot. RISTI, 2019.
 
-_(e outros)_
-
-### Livros Publicados
-
-- **Ensino de Música para Crianças Surdas utilizando Inteligência Artificial** (2023)
-- **Capacitação dos Docentes na Utilização de Tecnologias Assistivas** (2022)
-- **A Inclusão da Criança com Deficiência Auditiva** (2022)
-- **Ensino de Música para Crianças Surdas utilizando Tecnologia Assistiva e Robótica** (2020)
-
-### Capítulos de Livros
-
-- **The Idiosyncrasies of Digital Divide in Brazil**, Lecture Notes in Educational Technology, Springer, 2023.
-- **Sistemas de Informação em Saúde**, 2021.
-
-_(e outros)_
+_(e outros artigos em anais de congressos, capítulos e apresentações acadêmicas.)_
 
 ---
 
 ## 🎤 Eventos e Apresentações
 
-- Artificial Intelligence as an Inclusive Factor for Deaf Children, REX 2024.
-- CBIE 2024: Melhor Artigo - Ensino de Música para Surdos.
-- Finalista Brazil Conference at Harvard & MIT.
-- Latin American Conference on Learning Technologies.
+Participação em mais de 25 congressos nacionais e internacionais:
+- REX 2024
+- CBIE 2024
+- Brazil Conference Harvard & MIT
+- LACLO 2022 e 2019
+- Jornadas Iberoamericanas de IHC 2021
+- ISLA 2021
+- CONTIE 2020
 
-_(participação em mais de 25 eventos nacionais e internacionais)_
+_(e muitos outros)_
 
 ---
 
 ## 🎨 Produção Técnica e Artística
 
-- Desenvolvimento de Software baseado em IA para ensino musical de crianças surdas (2024).
-- Entrevistas em Rádio e TV: Rádio KHAZA, Programa Caixa de Música TV Novo Tempo.
-- Músico: Saxofonista e gaitista profissional.
+- Software baseado em IA para ensino musical de crianças surdas (2024).
+- Participações em Rádio KHAZA MUSICAST e TV Novo Tempo.
+- Saxofonista e gaitista.
 
 ---
 
