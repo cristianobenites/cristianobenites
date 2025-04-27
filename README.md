@@ -37,8 +37,6 @@ Recebi prêmios nacionais e internacionais, entre eles:
 
 Possuo vasta experiência como Professor Especialista na área de Ciência da Computação, atuando no ensino de programação Python, Infraestrutura, Inteligência Artificial e Lógica de Programação em cursos de Graduação e Pós-Graduação. Coordenação Ensino Médio Técnico. Experiência como professor convidado e pesquisador Sênior na Universidade Estiam de Paris na França. Tenho artigos científicos publicados em revistas nacionais e internacionais, e sou autor de livros que abordam técnicas para ensinar música a crianças surdas utilizando robótica e IA, além de técnicas para apoio educacional a surdos com jogos digitais e métodos para aulas remotas. Também escrevi capítulos em diversos livros. Experiência com Metodologia PBL e Ágil.
 
-Tenho certificações técnicas em Windows Server, MTA de Redes, DELL EMC Infraestrutura Cloud, DELL EMC Armazenamento de Informações, ITIL, COBIT e Symantec.
-
 Atuei tecnicamente em grandes projetos de instalação de IoT hospitalar e industrial, participando de iniciativas nos maiores hospitais e empresas do Brasil.
 
 ---
