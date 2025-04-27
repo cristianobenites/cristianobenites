@@ -2,104 +2,129 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00d4ff&height=200&section=header&text=Cristiano%20Benites&fontSize=40&fontColor=ffffff" alt="Cristiano Benites Banner"/>
 </p>
 
-<h2 align="center">👋 Olá, eu sou o Cristiano Benites!</h2>
-
 <p align="center">
   Professor Universitário | Doutor em Engenharia da Computação | Pesquisador Científico
 </p>
 
 ---
 
+## 📚 Sumário
+
+- [Sobre Mim](#-sobre-mim)
+- [Formação Complementar](#-forma%C3%A7%C3%A3o-complementar)
+- [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
+- [Produções Bibliográficas](#-produ%C3%A7%C3%B5es-bibliogr%C3%A1ficas)
+- [Eventos e Apresentações](#-eventos-e-apresenta%C3%A7%C3%B5es)
+- [Produção Técnica e Artística](#-produ%C3%A7%C3%A3o-t%C3%A9cnica-e-art%C3%ADstica)
+- [Contatos](#-contatos)
+
+---
+
 ## 🧠 Sobre Mim
 
-Doutor e Mestre em Engenharia Elétrica e Engenharia da Computação pela Universidade Presbiteriana Mackenzie, possuo MBA em Data Center e Computação em Nuvem - Infraestrutura, Arquitetura e Armazenamento de Informações pela UNIP.  
-Formado em Ciência da Computação e Tecnólogo em Redes de Computadores pelo UNASP.  
-Orientei mais de 170 trabalhos/projetos de conclusão de curso na área de Ciência e Engenharia da Computação.
+Doutor e Mestre em Engenharia Elétrica e Engenharia da Computação pela Universidade Presbiteriana Mackenzie. MBA em Data Center e Computação em Nuvem pela UNIP. Formado em Ciência da Computação e Tecnólogo em Redes de Computadores pelo UNASP.
 
-Recebi diversos prêmios e títulos, tanto nacionais quanto internacionais, em reconhecimento ao meu compromisso com a inclusão de pessoas com deficiência.  
-Desenvolvi uma solução de Inteligência Artificial voltada para a inclusão social de crianças surdas por meio da música, trabalho pelo qual fui laureado com o prêmio de Melhores Projetos de Doutorado em Engenharia Elétrica e Computação pela Universidade Presbiteriana Mackenzie, em 2024, concedido pela APG Mackenzie.  
-Fui também agraciado com o prêmio de Melhor Artigo no Congresso Brasileiro de Informática na Educação (CBIE), promovido pela Sociedade Brasileira de Computação (SBC), na linha WIE Trilha 1, em 2024.  
-Além disso, recebi prêmios em conferências internacionais na área de educação e inclusão social, incluindo a nomeação como finalista do Prêmio Brazil Conference de Harvard e MIT na categoria Impacto Social, bem como reconhecimentos em congressos europeus, onde apresentei o melhor projeto de pesquisa.
+Orientei mais de 170 trabalhos/projetos de conclusão de curso.
 
-Possuo vasta experiência como Professor Especialista na área de Ciência da Computação, atuando no ensino de programação Python, Infraestrutura, Inteligência Artificial e Lógica de Programação em cursos de Graduação e Pós-Graduação.  
-Experiência em coordenação de Ensino Médio Técnico, professor convidado e pesquisador Sênior na Universidade Estiam de Paris, na França.  
-Tenho artigos científicos publicados em revistas nacionais e internacionais, e sou autor de livros que abordam técnicas para ensinar música a crianças surdas utilizando robótica e IA, além de técnicas para apoio educacional a surdos com jogos digitais e métodos para aulas remotas.  
-Também escrevi capítulos em diversos livros e atuo com Metodologia PBL e Ágil.
+Recebi prêmios nacionais e internacionais, entre eles:
+- Prêmio Melhores Projetos de Doutorado (Mackenzie/APG, 2024)
+- Melhor Artigo no CBIE/SBC (2024)
+- Finalista da Brazil Conference at Harvard & MIT (Impacto Social)
+- Premiações em congressos europeus de pesquisa.
 
-Possuo certificações técnicas em Windows Server, MTA de Redes, DELL EMC Infraestrutura Cloud, DELL EMC Armazenamento de Informações, ITIL, COBIT e Symantec.
+Professor universitário, Pesquisador Sênior na Universidade Estiam de Paris, autor de livros e artigos científicos sobre Educação Inclusiva, Inteligência Artificial, Música para Surdos e Robótica Educacional.
 
-Atuei tecnicamente em grandes projetos de instalação de IoT hospitalar e industrial, participando de iniciativas nos maiores hospitais e empresas do Brasil.
+Experiência em projetos de IoT hospitalar e industrial.
+
+Certificações: Windows Server, MTA Redes, DELL EMC Infraestrutura Cloud, ITIL, COBIT, entre outras.
 
 ---
 
+## 🎓 Formação Complementar
+
+- 2016: MBA em Data Center e Computação em Nuvem - UNIP (360h)
+- 2016-2017: Melhores práticas de TI - COBIT (140h)
+- 2016: Dell EMC Proven Professional – Cloud Infrastructure
+- 2016: Dell EMC Proven Professional – Information Storage
+- 2016: Prova 412 Windows Server 2012 – Microsoft
+- 2015-2016: Melhores práticas de Infraestrutura - ITIL (140h)
+- 2015-2016: MCSA Windows Server 2012 – Microsoft
+- 2015: Prova 410 Windows Server 2012 – Microsoft
+- 2015: Prova 411 Windows Server 2012 – Microsoft
+- 2015: Microsoft Technology Associate – Patente F364-3421
+- 2014-2015: Microsoft Certified Professional
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Programando"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 📝 Produções Bibliográficas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-</p>
+### Artigos em Periódicos
 
----
+1. Ensino de música para surdos: de uma perspectiva histórica até o uso da Inteligência Artificial. **RISTI**, 2024.
+2. Estudo da Inteligência Artificial no escopo do ensino em PBL. **Contemporânea**, 2024.
+3. Harmonias invisíveis: tecnologia no ensino musical para surdos. **Revista Fisio&Terapia**, 2023.
+4. Sons do silêncio: a história dos surdos com a música. **Contemporânea**, 2023.
+5. Songs and silence: the historic journey of the deaf in music. **Concilium**, 2023.
 
-## 📚 Meus Livros
+_(e outros)_
 
-- 📘 **[Capacitação dos Docentes na Utilização de Tecnologias Assistivas](https://my.nea-edicoes.com/catalog/details/store/fr/book/978-613-9-78959-7/capacita%C3%A7%C3%A3o-dos-docentes-na-utiliza%C3%A7%C3%A3o-de-tecnologias-assistivas?search=Cristiano%20Benites)**  
-  _Facilitando a inclusão no mundo acadêmico com pensamento computacional e IA._
+### Livros Publicados
 
-- 📗 **[A Inclusão da Criança com Deficiência Auditiva Utilizando Jogos Digitais](https://my.nea-edicoes.com/catalog/details/store/gb/book/978-613-9-78967-2/a-inclus%C3%A3o-da-crian%C3%A7a-com-defici%C3%AAncia-auditiva?search=Ismar%20Silveira)**  
-  _Jogos digitais como ferramenta de ensino de Libras e Português._
+- **Ensino de Música para Crianças Surdas utilizando Inteligência Artificial** (2023)
+- **Capacitação dos Docentes na Utilização de Tecnologias Assistivas** (2022)
+- **A Inclusão da Criança com Deficiência Auditiva** (2022)
+- **Ensino de Música para Crianças Surdas utilizando Tecnologia Assistiva e Robótica** (2020)
 
-- 📕 **[Ensino de Música para Crianças Surdas Utilizando Tecnologia Assistiva e Robótica](https://my.nea-edicoes.com/catalog/details/store/gb/book/978-620-2-55929-4/ensino-de-m%C3%BAsica-para-crian%C3%A7as-surdas?search=Ismar%20Silveira)**  
-  _Tecnologia e robótica para educação musical inclusiva._
+### Capítulos de Livros
 
-- 📙 **[Ensino de Música para Crianças Surdas Utilizando Inteligência Artificial](https://generis-publishing.com/book.php?title=i-strong-ensino-de-msica-para-crianas-surdas-utilizando-inteligncia-artificial-strong-i-1625)**  
-  _Aplicações de IA no ensino musical para surdos._
+- **The Idiosyncrasies of Digital Divide in Brazil**, Lecture Notes in Educational Technology, Springer, 2023.
+- **Sistemas de Informação em Saúde**, 2021.
 
----
-
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianobenites&show_icons=true&theme=tokyonight" alt="Estatísticas de Cristiano Benites"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cristianobenites&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Contribuições Recentes de Cristiano Benites"/>
-</p>
+_(e outros)_
 
 ---
 
-## 📫 Onde me encontrar
+## 🎤 Eventos e Apresentações
+
+- Artificial Intelligence as an Inclusive Factor for Deaf Children, REX 2024.
+- CBIE 2024: Melhor Artigo - Ensino de Música para Surdos.
+- Finalista Brazil Conference at Harvard & MIT.
+- Latin American Conference on Learning Technologies.
+
+_(participação em mais de 25 eventos nacionais e internacionais)_
+
+---
+
+## 🎨 Produção Técnica e Artística
+
+- Desenvolvimento de Software baseado em IA para ensino musical de crianças surdas (2024).
+- Entrevistas em Rádio e TV: Rádio KHAZA, Programa Caixa de Música TV Novo Tempo.
+- Músico: Saxofonista e gaitista profissional.
+
+---
+
+## 📫 Contatos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristiano-benites-ph-d-687647a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="http://lattes.cnpq.br/7929863405512173" target="_blank">
-    <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="Currículo Lattes"/>
-  </a>
-  <a href="https://orcid.org/0000-0002-1300-7944" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="Orcid"/>
-  </a>
-  <a href="https://www.youtube.com/@CristianoBenites" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.instagram.com/cristiano.benites.oficial/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/cristiano.benites.3" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <a href="https://www.linkedin.com/in/cristiano-benites-ph-d-687647a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://lattes.cnpq.br/7929863405512173" target="_blank"><img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0002-1300-7944" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@CristianoBenites" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/cristiano.benites.oficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/cristiano.benites.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
