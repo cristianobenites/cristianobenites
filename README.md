@@ -1,33 +1,6 @@
-<div align="center">
-  
-  <h1 style="font-size: 50px; background: linear-gradient(90deg, #004aad, #00d4ff); -webkit-background-clip: text; color: transparent; font-weight: bold; padding: 20px 0;">
-    Cristiano Benites
-  </h1>
-
-  <h3 style="font-size: 22px; background: linear-gradient(90deg, #0b0b0b, #004aad); -webkit-background-clip: text; color: transparent; font-weight: normal; margin-top: -20px;">
-    Inteligência Artificial | Educação Digital | Tecnologias Assistivas
-  </h3>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <p style="font-size: 18px; color: #00d4ff; font-family: 'Fira Code', monospace;">
-    Professor e Pesquisador em Engenharia da Computação<br>
-    Atuação em projetos de inovação tecnológica e educação inclusiva.
-  </p>
-
-</div>
-
----
-
-<br>
-
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #004aad, #00d4ff);">
-
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Cristiano%20Benites&fontSize=45&fontAlign=50&fontColor=ffffff&animation=twinkling&desc=Inteligência%20Artificial%20|%20Educação%20Digital%20|%20Tecnologia%20Assistiva&descSize=20&descAlign=50&descColor=f0f0f0" alt="Cristiano Benites Banner"/>
+</p>
 
 
 <h2 align="center">👋 Olá, eu sou o Cristiano Benites!</h2>
