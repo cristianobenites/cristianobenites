@@ -43,12 +43,12 @@ Atuei tecnicamente em grandes projetos de instalação de IoT hospitalar e indus
 
 ## 🎓 Formação Complementar
 
-- 2016: MBA em Data Center e Computação em Nuvem - UNIP (360h)
-- 2016: Certificação Melhores práticas de TI - COBIT (140h)
+- 2016: MBA em Data Center e Computação em Nuvem - UNIP
+- 2016: Certificação Melhores práticas de TI - COBIT
 - 2016: Certificação Dell EMC Proven Professional – Cloud Infrastructure
 - 2016: Certificação Dell EMC Proven Professional – Information Storage
 - 2016: Certificação Prova 412 Windows Server 2012 – Microsoft
-- 2015: Certificação Melhores práticas de Infraestrutura - ITIL (140h)
+- 2015: Certificação Melhores práticas de Infraestrutura - ITIL 
 - 2015: Certificação MCSA Windows Server 2012 – Microsoft
 - 2015: Certificação Prova 410 Windows Server 2012 – Microsoft
 - 2015: Certificação Prova 411 Windows Server 2012 – Microsoft
