@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002147,50:004aad,100:00d4ff&height=220&section=header&text=Cristiano%20Benites&fontSize=48&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1&waveHeight=280" alt="Cristiano Benites Banner"/>
 </p>
 
+---
 
+Doutor em Engenharia Elétrica e Computação com viés em Inteligência Artificial | Escritor | Saxofonista | Criador conteúdo YouTube | Pesquisador em Inclusão de Pessoas com deficiências
 
 ---
 
