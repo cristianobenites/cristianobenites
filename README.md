@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=220&section=header&text=Cristiano%20Benites&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Cristiano Benites Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:1c1c1c&height=200&section=header&text=Cristiano%20Benites&fontSize=42&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=00d4ff&strokeWidth=1" alt="Cristiano Benites Banner"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Professor+e+Pesquisador+em+Engenharia+da+Computação;Inteligência+Artificial+%7C+Educação+Digital+%7C+Tecnologia+Assistiva" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Professor+e+Pesquisador+em+Engenharia+da+Computação;Especialista+em+Inteligência+Artificial%2C+Educação+Digital+e+Tecnologias+Assistivas" alt="Typing SVG"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Artificial Intelligence GIF"/>
+  <img src="https://user-images.githubusercontent.com/91568855/266998594-b49b2d5a-7b0b-49da-bc4e-52404d4f40a7.png" width="700" alt="Inteligência Artificial Acadêmica"/>
 </p>
 
 
