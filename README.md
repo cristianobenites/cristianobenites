@@ -124,13 +124,26 @@ _(e muitos outros)_
 ## 📫 Contatos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristiano-benites-ph-d-687647a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="http://lattes.cnpq.br/7929863405512173" target="_blank"><img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
-  <a href="https://orcid.org/0000-0002-1300-7944" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@CristianoBenites" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/cristiano.benites.oficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/cristiano.benites.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cristiano-benites-ph-d-687647a8/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Cristiano Benites"/>
+  </a>
+  <a href="http://lattes.cnpq.br/7929863405512173" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="Lattes Cristiano Benites"/>
+  </a>
+  <a href="https://orcid.org/0000-0002-1300-7944" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Cristiano Benites"/>
+  </a>
+  <a href="https://www.youtube.com/@CristianoBenites" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Cristiano Benites"/>
+  </a>
+  <a href="https://www.instagram.com/cristiano.benites.oficial/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Cristiano Benites"/>
+  </a>
+  <a href="https://www.facebook.com/cristiano.benites.3" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Cristiano Benites"/>
+  </a>
 </p>
+
 
 ---
 
