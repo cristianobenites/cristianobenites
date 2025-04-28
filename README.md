@@ -1,20 +1,63 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:1c1c1c&height=200&section=header&text=Cristiano%20Benites&fontSize=42&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=00d4ff&strokeWidth=1" alt="Cristiano Benites Banner"/>
-</p>
+<h1 align="center">
+  Cristiano Benites
+</h1>
+
+<h3 align="center">
+  Professor e Pesquisador em Engenharia da Computação
+</h3>
+
+<h4 align="center">
+  Inteligência Artificial • Educação Digital • Tecnologias Assistivas
+</h4>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Professor+e+Pesquisador+em+Engenharia+da+Computação;Especialista+em+Inteligência+Artificial%2C+Educação+Digital+e+Tecnologias+Assistivas" alt="Apresentação Cristiano Benites"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Seja+Bem-Vindo(a)+ao+meu+repositório+acadêmico.;Pesquisas+em+Inteligência+Artificial+e+Educação+Tecnológica.">
 </p>
 
 <br>
 
+<hr>
+
+<br>
+
+<h3 align="center">🚀 Sobre Mim</h3>
+
 <p align="center">
-  <img src="https://github.com/koddr/templates/raw/main/images/Artificial-Intelligence-Banner.png" width="800" alt="Artificial Intelligence Banner"/>
+Professor universitário, doutor em Engenharia da Computação, pesquisador focado em Inteligência Artificial Aplicada, Inclusão Digital, Educação Digital e Tecnologias Assistivas. 
+Com uma trajetória acadêmica dedicada à inovação e à inclusão, busco desenvolver soluções que impactem positivamente a sociedade.
 </p>
 
+<br>
 
+<hr>
+
+<br>
+
+<h3 align="center">📚 Áreas de Pesquisa</h3>
+
+<ul align="center">
+  <li>Machine Learning & Deep Learning</li>
+  <li>Processamento de Linguagem Natural (NLP)</li>
+  <li>Visão Computacional</li>
+  <li>Inclusão Digital e Tecnologias Assistivas</li>
+  <li>Educação Digital e Inovação no Ensino</li>
+</ul>
+
+<br>
+
+<hr>
+
+<br>
+
+<h3 align="center">📫 Contato</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> • 
+  <a href="https://www.github.com" target="_blank">GitHub</a> • 
+  <a href="https://www.lattes.cnpq.br" target="_blank">Currículo Lattes</a>
+</p>
 
 
 <h2 align="center">👋 Olá, eu sou o Cristiano Benites!</h2>
