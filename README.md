@@ -52,8 +52,8 @@ Atuei tecnicamente em grandes projetos de instalação de IoT hospitalar e indus
 - 2015: Certificação MCSA Windows Server 2012 – Microsoft
 - 2015: Certificação Prova 410 Windows Server 2012 – Microsoft
 - 2015: Certificação Prova 411 Windows Server 2012 – Microsoft
-- 2015: Certificação Microsoft Technology Associate – Patente F364-3421
-- 2015: Certificação Microsoft Certified Professional
+- 2015: Certificação Microsoft Technology Associate – Microsoft
+- 2015: Certificação Microsoft Certified Professional – Microsoft
 
 ---
 
