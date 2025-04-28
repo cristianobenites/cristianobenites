@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:00d4ff&height=200&section=header&text=Cristiano%20Benites&fontSize=40&fontColor=ffffff" alt="Cristiano Benites Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Cristiano%20Benites&fontSize=45&fontAlign=50&fontColor=ffffff&animation=twinkling&desc=Inteligência%20Artificial%20|%20Educação%20Digital%20|%20Tecnologia%20Assistiva&descSize=20&descAlign=50&descColor=f0f0f0" alt="Cristiano Benites Banner"/>
 </p>
+
 
 <h2 align="center">👋 Olá, eu sou o Cristiano Benites!</h2>
 
