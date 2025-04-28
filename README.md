@@ -4,7 +4,9 @@
 
 ---
 
-Doutor em Engenharia Elétrica e Computação com viés em Inteligência Artificial | Escritor | Saxofonista | Criador conteúdo YouTube | Pesquisador em Inclusão de Pessoas com deficiências
+<p align="center">
+  Doutor em Engenharia Elétrica e Computação com viés em Inteligência Artificial | Escritor | Saxofonista | Criador de conteúdo no YouTube | Pesquisador em Inclusão de Pessoas com Deficiências
+</p>
 
 ---
 
