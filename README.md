@@ -5,14 +5,15 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Professor+e+Pesquisador+em+Engenharia+da+Computação;Especialista+em+Inteligência+Artificial%2C+Educação+Digital+e+Tecnologias+Assistivas" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Professor+e+Pesquisador+em+Engenharia+da+Computação;Especialista+em+Inteligência+Artificial%2C+Educação+Digital+e+Tecnologias+Assistivas" alt="Apresentação Cristiano Benites"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91568855/266998594-b49b2d5a-7b0b-49da-bc4e-52404d4f40a7.png" width="700" alt="Inteligência Artificial Acadêmica"/>
+  <img src="https://github.com/koddr/templates/raw/main/images/Artificial-Intelligence-Banner.png" width="800" alt="Artificial Intelligence Banner"/>
 </p>
+
 
 
 
