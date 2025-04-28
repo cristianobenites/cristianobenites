@@ -32,6 +32,7 @@ Recebi prêmios nacionais e internacionais, entre eles:
 - Prêmio Vencedor de Melhor Projeto IA na REX Event (Estiam/Paris - França, 2024)
 - Prêmio Melhores Projetos de Doutorado (Mackenzie/APG, 2024)
 - Melhor Artigo no CBIE/SBC (2024)
+- Artigos Premiados RBIE/SBC (2025)
 - Finalista da Brazil Conference at Harvard & MIT (Impacto Social)
 - Premiações em congressos europeus de pesquisa.
 
