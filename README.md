@@ -1,13 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,50:004aad,100:00d4ff&height=200&section=header&text=Cristiano%20Benites&fontSize=50&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&desc=Inteligência%20Artificial%20%7C%20Educação%20Digital%20%7C%20Tecnologia%20Assistiva&descSize=22&descAlign=50&descColor=f0f0f0" alt="Cristiano Benites Banner"/>
-</p>
+<div align="center">
+  
+  <h1 style="font-size: 50px; background: linear-gradient(90deg, #004aad, #00d4ff); -webkit-background-clip: text; color: transparent; font-weight: bold; padding: 20px 0;">
+    Cristiano Benites
+  </h1>
+
+  <h3 style="font-size: 22px; background: linear-gradient(90deg, #0b0b0b, #004aad); -webkit-background-clip: text; color: transparent; font-weight: normal; margin-top: -20px;">
+    Inteligência Artificial | Educação Digital | Tecnologias Assistivas
+  </h3>
+
+</div>
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Professor+e+Pesquisador+em+Engenharia+da+Computação;Atuando+em+IA%2C+Educação+Digital+e+Tecnologias+Assistivas" alt="Typing SVG"/>
-</p>
+<div align="center">
 
+  <p style="font-size: 18px; color: #00d4ff; font-family: 'Fira Code', monospace;">
+    Professor e Pesquisador em Engenharia da Computação<br>
+    Atuação em projetos de inovação tecnológica e educação inclusiva.
+  </p>
+
+</div>
+
+---
+
+<br>
+
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #004aad, #00d4ff);">
+
+<br>
 
 
 <h2 align="center">👋 Olá, eu sou o Cristiano Benites!</h2>
