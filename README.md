@@ -34,7 +34,6 @@ Recebi prêmios nacionais e internacionais, entre eles:
 - Melhor Artigo no Congresso Brasileiro de Informática na Educação/SBC (2024)
 - Artigo Premiado Revista Brasileira Infomática na Educação/SBC (2025)
 - Finalista da Brazil Conference at Harvard & MIT (Impacto Social)
-- Premiações em congressos europeus de pesquisa.
 
 Possuo vasta experiência como Professor Especialista na área de Ciência da Computação, atuando no ensino de programação Python, Infraestrutura, Inteligência Artificial e Lógica de Programação em cursos de Graduação e Pós-Graduação. Coordenação Ensino Médio Técnico. Experiência como professor convidado e pesquisador Sênior na Universidade Estiam de Paris na França. Tenho artigos científicos publicados em revistas nacionais e internacionais, e sou autor de livros que abordam técnicas para ensinar música a crianças surdas utilizando robótica e IA, além de técnicas para apoio educacional a surdos com jogos digitais e métodos para aulas remotas. Também escrevi capítulos em diversos livros. Experiência com Metodologia PBL e Ágil.
 
